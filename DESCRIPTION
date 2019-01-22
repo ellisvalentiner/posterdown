@@ -1,5 +1,5 @@
 Package: posterdown
-Title: Generates PDF conference posters using R Markdown.
+Title: Generates PDF conference posters using R Markdown
 Version: 0.1.1
 Author: Brent Thorne
 Description: Posterdown expands on RMarkdown to generate PDF conference posters.
